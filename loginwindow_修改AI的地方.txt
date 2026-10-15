@@ -1,0 +1,4 @@
+寫完程式之後發現視窗內沒有顯示內容於是複製我寫的程式碼到gemini詢問，
+1. 將setLayout(null)改成setLayout(new GridLayout(3, 2, 10, 10));
+2. 把setVisible(true);放到最後
+修改完後視窗可以正常顯示
