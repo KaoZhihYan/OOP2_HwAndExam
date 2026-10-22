@@ -1,0 +1,1 @@
+將typeCombo.addActionListener中if-else if的部分改為switch後因為units沒有初始值，所以宣告了lengthUnits當作初始值。
